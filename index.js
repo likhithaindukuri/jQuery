@@ -1,2 +1,4 @@
 
-$("h1").css("color","blue");
+$("h1").text("Bye");
+
+$("button").html("<em>Hey</em>");
