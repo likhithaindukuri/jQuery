@@ -1,4 +1,2 @@
 
-$("h1").text("Bye");
-
-$("button").text("<em>Hey</em>");
+$("a").attr("href","http://www.yahoo.com");
